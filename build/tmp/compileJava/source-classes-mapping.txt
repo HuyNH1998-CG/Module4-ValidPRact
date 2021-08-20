@@ -2,7 +2,11 @@ controller/UserController.java
  controller.UserController
 model/User.java
  model.User
-config/AppConfig.java
- config.AppConfig
 config/AppInit.java
  config.AppInit
+config/AppConfig.java
+ config.AppConfig
+controller/PhoneController.java
+ controller.PhoneController
+model/PhoneNumber.java
+ model.PhoneNumber
